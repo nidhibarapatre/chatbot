@@ -1,0 +1,62 @@
+{
+  "id": "30e6e252-31a5-443d-ba14-211e7ce9ad4b",
+  "name": "Login",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! To access the login page, you can follow these steps. Please look for the \"Login\" or \"Sign In\" button or link on the website. It is typically located at the top right corner of the webpage or within the navigation menu. Clicking on this button or link will direct you to the login page.Once you\u0027re on the login page, you can enter your credentials to log in and access the features or content available to registered users."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "link": "https://www.sciastra.com/app/",
+                  "icon": {
+                    "color": "#FF9800",
+                    "type": "chevron_right"
+                  },
+                  "text": "Login",
+                  "event": {
+                    "parameters": {},
+                    "languageCode": "",
+                    "name": ""
+                  },
+                  "type": "button"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "93dddd36-680c-40d5-959d-38e704b1363c",
+  "name": "Courses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! I can help you navigate to the courses page of the education website. To find the list of courses offered, please follow these steps. Look for the \"Courses\"  tab in the website\u0027s navigation menu. It is usually located at the top of the webpage. Clicking on this tab will take you to the courses page, where you can explore the available educational programs. Alternatively, you can search for a \"Courses\"  link or button on the homepage. Once you are on the courses page, you will be able to view detailed information about the courses, including their descriptions, prerequisites, and any other relevant details."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "link": "https://www.sciastra.com/courses/",
+                      "text": "Courses"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

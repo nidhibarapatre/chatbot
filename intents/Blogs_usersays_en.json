@@ -1,0 +1,67 @@
+[
+  {
+    "id": "bf8c8aed-3a96-413f-9cc3-4da47b12aef6",
+    "data": [
+      {
+        "text": "How do I navigate to the page with the latest blog updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "460a7b57-8a81-4341-8a8f-a8dbdf584855",
+    "data": [
+      {
+        "text": "Go to the blogs page of the website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "836de95d-b20b-4b3a-8f42-dc574bf844b7",
+    "data": [
+      {
+        "text": "Where can I find the blog section?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4d71b0e-929d-44cc-86a0-c94a3c87959b",
+    "data": [
+      {
+        "text": "Take me to the page with the articles or blog posts.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "811c8d33-e6b5-45d8-888e-adb0233e5b3e",
+    "data": [
+      {
+        "text": "How can I access the blogs on this website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

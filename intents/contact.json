@@ -1,0 +1,57 @@
+{
+  "id": "bbe2a3d5-03e9-4568-bb6c-bfb10ba143d9",
+  "name": "contact",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! I can assist you in navigating to the contact us page of the website. To access the page with contact information or a contact form, please follow these steps. Look for the \"Contact Us\" tab in the website\u0027s navigation menu. This tab is typically located at the top of the webpage. Clicking on it will redirect you to the contact us page, where you can find contact details such as email addresses, phone numbers, or a contact form to reach out to the website\u0027s administrators or support team. Once you are on the contact us page, you will be able to find the contact details or fill out the contact form to get in touch with the website\u0027s team."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "link": "https://www.sciastra.com/contact/",
+                      "text": "Contact Us"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

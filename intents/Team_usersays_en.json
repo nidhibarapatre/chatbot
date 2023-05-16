@@ -1,0 +1,67 @@
+[
+  {
+    "id": "7f908888-849b-451f-bc11-f4bae45aee5c",
+    "data": [
+      {
+        "text": "How do I navigate to the page with details about the website\u0027s team?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "479c324e-3b13-4fd6-ad63-858cdac99f31",
+    "data": [
+      {
+        "text": "Go to the team section of the website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4af62018-f96c-4d09-ac9a-57cdfd1ce621",
+    "data": [
+      {
+        "text": "Where can I find information about the team members?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "caafcb89-4c9d-4467-8477-92bdb3e259e0",
+    "data": [
+      {
+        "text": "Take me to the page where I can learn about the team behind this website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b72eb695-8807-4535-84c3-3d19941bca21",
+    "data": [
+      {
+        "text": "How can I access the team page on this website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

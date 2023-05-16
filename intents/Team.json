@@ -1,0 +1,57 @@
+{
+  "id": "67300b88-40fe-4c1e-9b15-a846d80737df",
+  "name": "Team",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! I can assist you in navigating to the team page of the education website. To access the page where you can learn about the team members behind this website, please follow these steps. Look for the \"Team\" tab in the website\u0027s navigation menu. This tab is located at the top of the webpage. Clicking on it will redirect you to the team page, where you can find information about the individuals who contribute to the website and their roles. Once you are on the team page, you will be able to explore the details about the team members and their contributions to the website."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "link": "https://www.sciastra.com/teams/",
+                      "text": "Team"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

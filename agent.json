@@ -1,0 +1,30 @@
+{
+  "description": "Agent to help you with SciAstra",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Chatbot",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "defaultTimezone": "Asia/Almaty",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "d16f53b1ecb04543b09476ee96e05286",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [
+    "projects/chatbot-utra/knowledgeBases/NTI4MjQyMTY0NjQ3NTM5NTA3Mg",
+    "projects/chatbot-utra/knowledgeBases/MTY3ODE4NTMxMjE1NzA2Njg1NDQ",
+    "projects/chatbot-utra/knowledgeBases/MzQ0MTA2NTEyNTM5MjQxNjc2OA",
+    "projects/chatbot-utra/knowledgeBases/MTU2NDY2MTE3NjM5Mzg0NTk2NDg",
+    "projects/chatbot-utra/knowledgeBases/MjcwOTQ1ODg4NDM2MzI4ODU3Ng",
+    "projects/chatbot-utra/knowledgeBases/MjQzMDIzNTcwNzQ2NjMxNzgyNA"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}

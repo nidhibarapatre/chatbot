@@ -1,0 +1,48 @@
+{
+  "id": "7c9252e4-38a3-42a7-b374-2aacb11f9954",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! How can I assist you with information about institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, or any other research entrance exams?",
+            "Welcome! I\u0027m here to help you with comprehensive guidance for institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, and more. Feel free to ask any questions!",
+            "Hi there! If you need assistance regarding research entrance exams such as IAT, NEST, ISI, CMI, IACS, or any information about institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, etc., I\u0027m here to help.",
+            "Greetings! How may I assist you today? Whether you\u0027re looking for guidance on IISERs, NISER, IISc Bangalore, ISI, CMI, or help with research entrance exams like IAT, NEST, ISI, CMI, IACS, I\u0027m at your service.",
+            "Hello! Welcome to our chatbot service. I specialize in providing comprehensive guidance for institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, and assisting with research entrance exams such as IAT, NEST, ISI, CMI, IACS. How can I support you today?",
+            "Hi! I\u0027m here to offer comprehensive guidance about institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, and provide assistance for research entrance exams like IAT, NEST, ISI, CMI, IACS, and more. How can I be of help to you?",
+            "Warm greetings! If you have any questions related to institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, or need support in preparing for research entrance exams such as IAT, NEST, ISI, CMI, IACS, just let me know. I\u0027m here to assist you.",
+            "Good day! I specialize in offering comprehensive guidance for institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, and providing assistance for research entrance exams like IAT, NEST, ISI, CMI, IACS. How may I assist you today?",
+            "Hello there! Whether you need information about institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, or help in preparing for research entrance exams such as IAT, NEST, ISI, CMI, IACS, I\u0027m here to provide you with the guidance you need. What can I do for you?",
+            "Greetings! Welcome to our chatbot service. I\u0027m knowledgeable about institutes like IISERs, NISER, IISc Bangalore, ISI, CMI, and well-versed in assisting with research entrance exams like IAT, NEST, ISI, CMI, IACS. Feel free to ask any questions you may have."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

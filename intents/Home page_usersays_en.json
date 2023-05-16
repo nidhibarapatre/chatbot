@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2c9872fa-a156-40b6-b202-deda6af82e8e",
+    "data": [
+      {
+        "text": "How can I go back to the main page of the website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea2e8da1-293c-43a8-aa0c-26b58ad7ee1a",
+    "data": [
+      {
+        "text": "I want to start from the beginning. Please go to the home page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8de64899-47ac-455a-8515-c41242a44260",
+    "data": [
+      {
+        "text": "Can you navigate me to the home page?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbe4dcaf-6ff1-43c1-9c83-66fd35485fbd",
+    "data": [
+      {
+        "text": "Take me back to the website\u0027s main page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91acfd50-7d32-4660-8f42-8754a895fda9",
+    "data": [
+      {
+        "text": "Go to the home page.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

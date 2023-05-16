@@ -1,0 +1,67 @@
+[
+  {
+    "id": "8cc03dcf-30f5-4daf-a808-e31f726f95c4",
+    "data": [
+      {
+        "text": "How do I access the information about the educational programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27476304-a2cc-4e28-a7db-25996d1f55dd",
+    "data": [
+      {
+        "text": "Go to the courses section of the website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c159b2b3-3978-4123-9543-66700a0cf987",
+    "data": [
+      {
+        "text": "Where can I explore the available courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5dc22c3-ed0a-401e-bb5a-69fe59183b88",
+    "data": [
+      {
+        "text": "Take me to the page with the list of courses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63cc95f4-4f2b-4f3d-9dc3-3d6bd60c21fd",
+    "data": [
+      {
+        "text": "How can I find the courses offered on this website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

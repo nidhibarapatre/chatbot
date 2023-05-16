@@ -1,0 +1,57 @@
+{
+  "id": "12bd4920-47f2-431a-87ac-cad8444ea032",
+  "name": "Materials",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! I can help you navigate to the study material page of the website. To access the page with study resources and downloadable study materials, please follow these steps. Look for the \"Materials\" tab in the website\u0027s navigation menu. This tab is located at the top of the webpage. Clicking on it will redirect you to the study material page, where you can find a collection of study resources, such as notes, ebooks, practice papers, or other educational materials.  Once you are on the study material page, you will be able to explore the available study resources and access downloadable study materials as per your requirement."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Materials",
+                      "link": "https://www.sciastra.com/materials/"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

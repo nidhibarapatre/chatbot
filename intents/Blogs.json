@@ -1,0 +1,57 @@
+{
+  "id": "600304ba-7440-4813-98c9-36415ff164c1",
+  "name": "Blogs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! I can assist you in navigating to the blogs page of the website. To access the page with articles or blog posts, please follow these steps. Look for the \"Blogs\" tab in the website\u0027s navigation menu. This tab is typically located at the top of the webpage. Clicking on it will redirect you to the blogs page, where you can find a collection of articles, blog posts, or other written content. Once you are on the blogs page, you will be able to explore the content and access the latest blog updates or articles."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "text": "Blogs",
+                      "link": "https://www.sciastra.com/blog/"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

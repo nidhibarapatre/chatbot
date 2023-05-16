@@ -1,0 +1,57 @@
+{
+  "id": "6302abb6-1923-4e51-b35a-0bfdea417724",
+  "name": "Selections",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly! I can assist you in navigating to the selections page of this website. To access the page where you can view the selections, please follow these steps. Look for the \"Selections\" tab in the website\u0027s navigation menu. This tab is located at the top of the webpage. Clicking on it will redirect you to the selections page, where you can find the list of selected candidates . Alternatively, you can search for a \"Selections\" link or button on the homepage.Once you are on the selections page, you will be able to access the relevant information you are looking for."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Selections",
+                      "link": "https://www.sciastra.com/selections/"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

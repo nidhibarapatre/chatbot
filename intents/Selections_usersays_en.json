@@ -1,0 +1,54 @@
+[
+  {
+    "id": "3676e975-185a-4423-ac59-ed7e87c57ff9",
+    "data": [
+      {
+        "text": "How do I navigate to the page with the list of selected candidates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0827fd47-e158-4645-9077-9c99463aca04",
+    "data": [
+      {
+        "text": "Go to the selections section of the website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c07b5bea-6fee-47a4-9a09-f546b97ef67a",
+    "data": [
+      {
+        "text": "Take me to the page where I can view the selections.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0dd9e9fb-85a2-4252-9dbc-b7e03543e75b",
+    "data": [
+      {
+        "text": "How can I access the selections page on this website?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

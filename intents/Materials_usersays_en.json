@@ -1,0 +1,67 @@
+[
+  {
+    "id": "6c7ff1e1-7a53-49d4-a32d-4d07f86017a3",
+    "data": [
+      {
+        "text": "How do I navigate to the page with downloadable study materials?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99d63c70-9cbc-4ca0-a6d2-72c638e65933",
+    "data": [
+      {
+        "text": "Go to the study material page of the website.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61fabd17-d571-432c-865b-6fd6c51e85fd",
+    "data": [
+      {
+        "text": "Where can I find the study material section?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbd2779e-3dd4-4ed6-a770-30a86866bad4",
+    "data": [
+      {
+        "text": "Take me to the page with the study resources.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80781691-3c78-48a7-8193-c78eed35e176",
+    "data": [
+      {
+        "text": "How can I access the study material on this website",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
