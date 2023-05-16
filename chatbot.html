@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SciAstra Chatbot</title>
+    <style>
+        .left img {
+            width: 100px;
+            height: 100px;
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+
+        body {
+            width: 100%;
+            height: 100vh;
+            /* overflow: hidden; */
+            padding: 0px;
+            margin: 0px;
+            background: linear-gradient(to bottom, #d968ea 0%, #7d12ef 100%);
+        }
+
+        .container {
+            margin-left: 230px;
+            margin-top: 117px;
+            
+
+        }
+
+        h1 {
+            font-size: 85px;
+            font-family: sans-serif;
+            display: flex;
+            margin: auto;
+        }
+
+        h2 {
+            font-size: 48px;
+            margin: 0px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="left">
+        <img src="new_logo_sci(1).png">
+    </div>
+    <div class="container">
+        <h1>SciAstra</h1>
+        <h2>For the love of Science</h2>
+    </div>
+
+    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+    <df-messenger intent="WELCOME" chat-title="Chatbot" agent-id="25ce36e1-3d56-481f-9275-af3f70e7b456"
+        language-code="en" expand="true"></df-messenger>
+    <style>
+        df-messenger {
+            --df-messenger-bot-message: #b232c9;
+            --df-messenger-button-titlebar-color: #7e15e8;
+            --df-messenger-chat-background-color: #ffffff;
+            --df-messenger-font-color: white;
+            --df-messenger-send-icon: #b232c9;
+            --df-messenger-user-message: #7e15e8;
+        }
+    </style>
+
+</body>
+
+</html>
